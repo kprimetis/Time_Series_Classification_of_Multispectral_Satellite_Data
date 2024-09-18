@@ -1,6 +1,6 @@
 # Time Series Classification of Multispectral Satellite Data
 ## Project Description
-This repository contains the third Project 3 of the course "Geospatial Data Analysis and Processing" in the MSc "Data Science & Machine Learning" program. This exercise focuses on designing and implementing a time series classification methodology for multispectral satellite data using **Transformer-based architectures**.
+This repository contains the third Project of the course "Geospatial Data Analysis and Processing" in the MSc "Data Science & Machine Learning" program. This exercise focuses on designing and implementing a time series classification methodology for multispectral satellite data using **Transformer-based architectures**.
 
 ## Objectives
 1. **Familiarization with Time Series Remote Sensing Data**
